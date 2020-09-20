@@ -1,0 +1,5 @@
+name: PandoraXPBar
+version: ${project.version}
+main: dev.minecraftplugins.pandora.pandoraxpbar.PandoraXPBar
+authors: [ X1XX ]
+description: Changes user's xp bars without affect server-side implementations.
