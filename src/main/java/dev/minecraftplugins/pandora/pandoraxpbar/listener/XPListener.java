@@ -1,7 +1,6 @@
 package dev.minecraftplugins.pandora.pandoraxpbar.listener;
 
 import com.azortis.azortislib.reflection.Reflections;
-import com.azortis.azortislib.utils.FormatUtil;
 import io.netty.channel.ChannelDuplexHandler;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelPromise;
